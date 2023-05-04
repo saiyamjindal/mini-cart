@@ -1,0 +1,36 @@
+{
+    "products":[
+        {
+            "id":1,
+            "name":"Samsung Galaxy S22",
+            "price":68000,
+            "category":"mobile",
+            "brand":"samsung",
+            "image":"https://m.media-amazon.com/images/I/71wGLBDEsvL._SX679_.jpg"
+        },
+        {
+            "id":2,
+            "name":"iPhone 14 Pro Max",
+            "price":140000,
+            "category":"mobile",
+            "brand":"apple",
+            "image":"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-14-model-unselect-gallery-2-202209_GEO_EMEA_FMT_WHH?wid=1280&hei=492&fmt=p-jpg&qlt=80&.v=1660745126016"
+        },
+        {
+            "id":3,
+            "name":"Amazefit GTS 2 Mini",
+            "price":7999,
+            "category":"watch",
+            "brand":"amazefit",
+            "image":"https://cdn.shopify.com/s/files/1/0266/1371/0884/products/712DTraZt_L_SX679-sw.jpg?v=1667995726"
+        },
+        {
+            "id":4,
+            "name":"HP Pavilion 15",
+            "price":83000,
+            "category":"laptop",
+            "brand":"hp",
+            "image":"https://hniesfp.imgix.net/8/images/detailed/298/15-eg0035na-win11.jpg?fit=fill&bg=0FFF&w=1500&h=1000&auto=format,compress"
+        }
+    ]
+}
